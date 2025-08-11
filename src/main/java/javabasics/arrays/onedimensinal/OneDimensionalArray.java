@@ -1,4 +1,4 @@
-package javabasics.arrays;
+package javabasics.arrays.onedimensinal;
 
 public class OneDimensionalArray {
     public static void main(String[] args) {
