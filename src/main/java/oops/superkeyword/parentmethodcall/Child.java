@@ -1,4 +1,4 @@
-    package oops.polymorphism.methodoverriding;
+    package oops.superkeyword.parentmethodcall;
 
     class Parent {
         protected int x;
