@@ -1,4 +1,4 @@
-package exception.customexception;
+package exceptionhandling.userdefinedexception;
 
 class InvalidArgumentException extends Exception {
     public InvalidArgumentException(String message) {

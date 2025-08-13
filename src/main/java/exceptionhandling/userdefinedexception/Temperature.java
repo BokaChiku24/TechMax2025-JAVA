@@ -1,4 +1,4 @@
-package exception.customexception;
+package exceptionhandling.userdefinedexception;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
