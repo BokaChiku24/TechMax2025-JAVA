@@ -1,4 +1,4 @@
-package exceptionhandling.userdefinedexception;
+package exceptionhandling.caughthandled;
 
 import java.io.BufferedReader;
 import java.io.IOException;
